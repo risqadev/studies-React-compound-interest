@@ -1,0 +1,19 @@
+.description {
+  display: block;
+  text-transform: uppercase;
+  font-size: 0.6rem;
+  font-weight: 500;
+}
+
+.value {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.positive {
+  color: blue
+}
+
+.negative {
+  color: red
+}

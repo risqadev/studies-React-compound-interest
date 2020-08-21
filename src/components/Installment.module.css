@@ -1,0 +1,9 @@
+.card {
+  padding: 10px;
+  align-items: center;
+}
+
+.period {
+  margin-right: 15px;
+  font-weight: 700;
+}
